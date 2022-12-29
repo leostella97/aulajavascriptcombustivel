@@ -23,4 +23,4 @@ let gastoCarro = 10;
 let kmViagem = 100;
 let gastoViagem = precoCombustivel*(kmViagem/gastoCarro);
 
-console.log("O gasto da viagem foi: ", gastoViagem);
+console.log("O gasto da viagem foi: ", gastoViagem.toFixed(2));
