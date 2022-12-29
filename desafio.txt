@@ -1,0 +1,9 @@
+
+faça um programa para cálcular o valor de uma viagem
+===============================
+terá 2 variáveis, sendo elas: 
+1 - Preço do combustível
+2 - Valor médio gasto do carro por KM
+3 - Distância em KM da viagem
+================================
+Imprima no console o valor que será gasto para realizar esta viajem
